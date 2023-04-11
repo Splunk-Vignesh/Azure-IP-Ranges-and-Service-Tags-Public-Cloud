@@ -1,0 +1,24 @@
+[props/source%3A%3A...TA-azure-service-tag-download%2A.log%2A]
+owner = admin
+version = 9.0.4.1
+modtime = 1680884204.119775900
+
+[props/source%3A%3A...ta_azure_service_tag_downloader%2A.log%2A]
+owner = admin
+version = 9.0.4.1
+modtime = 1680884204.361614900
+
+[props/info%3Aazure%3Aservicetag]
+owner = admin
+version = 9.0.4.1
+modtime = 1681152277.764770600
+
+[inputs/public_ip%3A%2F%2FService_tag]
+owner = admin
+version = 9.0.4.1
+modtime = 1681152835.220030800
+
+[collections/TA_azure_service_tag_downloader_checkpointer]
+owner = splunk-system-user
+version = 9.0.4.1
+modtime = 1681152837.988411500
